@@ -1,6 +1,6 @@
 
 Here are some ideas to get you started:
-<h1 align="center">Hi 👋, Salut!! C'est Gérardo</h1>
+<h1 align="center"> 👋, Salut!! C'est Gérardo</h1>
 <h3 align="center">A passionate frontend developer from Bénin</h3>
 
  🔭 Je travaille actuellement sur [GeroProject1](https://github.com/GerardoFDC/GeroProject1)
