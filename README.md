@@ -1,13 +1,13 @@
 
 Here are some ideas to get you started:
-<h1 align="center">Hi 👋, I'm Gérardo</h1>
+<h1 align="center">Hi 👋, Salut!! C'est Gérardo</h1>
 <h3 align="center">A passionate frontend developer from Bénin</h3>
 
- 🔭 I’m currently working on [GeroProject1](https://github.com/GerardoFDC/GeroProject1)
+ 🔭 Je travaille actuellement sur [GeroProject1](https://github.com/GerardoFDC/GeroProject1)
 
  👯 I’m looking to collaborate on [GerpProject1](https://github.com/GerardoFDC/GeroProject1)
 
- 📫 How to reach me **gerardokpoton@gmail.com**
+ 📫 Contactez-moi **gerardokpoton@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
