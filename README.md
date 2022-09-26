@@ -8,15 +8,6 @@
 
  📫 Contactez-moi **gerardokpoton@gmail.com**
 
-<h1 align="center">Hi 👋, I'm Gérardo</h1>
-<h3 align="center">A passionate frontend developer from Bénin</h3>
-
-- 🔭 I’m currently working on [GeroProject1](https://github.com/GerardoFDC/GeroProject1)
-
-- 👯 I’m looking to collaborate on [GerpProject1](https://github.com/GerardoFDC/GeroProject1)
-
-- 📫 How to reach me **gerardokpoton@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/gerardo kpoton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerardo kpoton" height="30" width="40" /></a>
